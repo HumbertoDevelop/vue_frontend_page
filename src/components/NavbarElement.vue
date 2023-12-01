@@ -3,8 +3,8 @@
     <nav class="w-screen fixed bg-opacity-90 bg-white p-4 lg:px-20 flex justify-between z-50">
 		<!-- Logo start -->
 		<div class="h-full flex flex-col justify-center">
-			<p class="tracking-widest font-semibold">LANDING</p>
-			<p class="tracking-widest font-light">PHOTOGRAPHY</p>
+			<p class="tracking-widest font-semibold">CITY KOOL</p>
+			<p class="tracking-widest font-light">DORAL DISTRIBUTTORS</p>
 		</div>
 		<!-- Logo end -->
 
