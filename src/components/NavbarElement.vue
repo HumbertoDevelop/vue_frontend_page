@@ -3,8 +3,9 @@
     <nav class="w-screen fixed bg-opacity-90 bg-white p-4 lg:px-20 flex justify-between z-50">
 		<!-- Logo start -->
 		<div class="h-full flex flex-col justify-center">
-			<p class="tracking-widest font-semibold">CITY KOOL</p>
-			<p class="tracking-widest font-light">DORAL DISTRIBUTTORS</p>
+			<!-- <p class="tracking-widest font-semibold">CITY KOOL</p>
+			<p class="tracking-widest font-light">DORAL DISTRIBUTTORS</p> -->
+			<img src="@/assets/logos/citykooldoralLogo.png" alt="img" class="h-20">
 		</div>
 		<!-- Logo end -->
 
